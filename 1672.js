@@ -26,4 +26,4 @@ var maximumWealth = function(accounts) {
     return Math.max(...result); //배열의 최대값을 가져오는 스프레드 연선자
 };
 
-//문법 저장
+//문법 저장 master
